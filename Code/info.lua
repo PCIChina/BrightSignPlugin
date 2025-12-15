@@ -1,7 +1,7 @@
 PluginInfo = {
   Name = "BrightSign~BrightSign",
   Version = "1.0",
-  BuildVersion = "1.0.0.16",
+  BuildVersion = "1.0.0.17",
   Id = "1b42e231-7de5-49a6-8978-9aedb9d9a572",
   Author = "PCI-China",
   Description = "Bright Sign Plugin",
