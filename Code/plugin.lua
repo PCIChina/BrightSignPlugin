@@ -1,4 +1,4 @@
--- Bright Sign Plugin
+-- BrightSign Plugin
 -- by PCI-China
 -- December 2025
 
@@ -23,7 +23,7 @@ end
 
 -- The name that will initially display when dragged into a design
 function GetPrettyName(props)
-  return "Bright Sign Plugin, version " .. PluginInfo.BuildVersion
+  return "BrightSign HD5 Monitoring Plugin, version " .. PluginInfo.BuildVersion
 end
 
 -- Optional function used if plugin has multiple pages

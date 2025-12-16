@@ -1,15 +1,15 @@
--- Bright Sign Plugin
+-- BrightSign Plugin
 -- by PCI-China
 -- December 2025
 
 -- Information block for the plugin
 PluginInfo = {
-  Name = "BrightSign~BrightSign",
+  Name = "BrightSign Monitoring~BrightSign HD5",
   Version = "1.0",
-  BuildVersion = "1.0.0.17",
+  BuildVersion = "1.0.0.42",
   Id = "1b42e231-7de5-49a6-8978-9aedb9d9a572",
   Author = "PCI-China",
-  Description = "Bright Sign Plugin",
+  Description = "BrightSign Plugin",
   Manufacturer = "BrightSign",
   Model = "BrightSign V1.0",
   Type = Reflect and Reflect.Types.VideoDistribution or 0,
@@ -34,7 +34,7 @@ end
 
 -- The name that will initially display when dragged into a design
 function GetPrettyName(props)
-  return "Bright Sign Plugin, version " .. PluginInfo.BuildVersion
+  return "BrightSign HD5 Monitoring Plugin, version " .. PluginInfo.BuildVersion
 end
 
 -- Optional function used if plugin has multiple pages
